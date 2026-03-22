@@ -1,7 +1,7 @@
 name = "FakeJuliaReleasePkg"
 uuid = "4c8e6f80-b5f9-4a2d-8b18-9d8dc7a4d5e1"
 authors = ["MilesCranmerBot <bot@example.com>"]
-version = "0.1.0"
+version = "0.2.0"
 
 [compat]
 julia = "1.10"
