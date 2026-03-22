@@ -1,7 +1,8 @@
 {
   "packages": {
     ".": {
-      "release-type": "julia"
+      "release-type": "julia",
+      "julia-registry-url": "https://github.com/MilesCranmerBot/GeneralTestRegistry"
     }
   }
 }
