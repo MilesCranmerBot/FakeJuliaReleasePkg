@@ -7,3 +7,5 @@ Test Julia package for validating release-please Julia support.
 - `greet()`
 - `add(a, b)`
 - `description()`
+
+Notes: validates the fake package release flow.
